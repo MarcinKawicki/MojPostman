@@ -1,2 +1,2 @@
 # MojPostman
- Ćwiczenia z postmana
+ Pierwsze kroki w postmanie
